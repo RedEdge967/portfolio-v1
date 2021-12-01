@@ -14,4 +14,4 @@
 
 ### Link: https://rededge967.github.io
 
-> ### If you wanna use this template as your website template fork this repo and don't forget to give a star.. 🌟
+> ### If you wanna use this template as your website template fork or clone this repo and don't forget to give a star.. 🌟
