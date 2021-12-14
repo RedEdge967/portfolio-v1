@@ -15,6 +15,20 @@
 - Javascript
 - PHP
 
+## Cloning repo
+- Cloning in browser (Forking)
+```
+https://github.com/RedEdge967/RedEdge967.github.io.git
+```
+- Cloning in SSH
+```
+git@github.com:RedEdge967/RedEdge967.github.io.git
+```
+- Cloning in Github CLI
+```
+gh repo clone RedEdge967/RedEdge967.github.io
+```
+
 ### Link: https://rededge967.github.io
 
 > ### If you wanna use this template as your website template, fork or clone this repo and don't forget to give a star.. 🌟
