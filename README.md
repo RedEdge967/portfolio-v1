@@ -18,15 +18,15 @@
 ## Cloning repo
 - Cloning in browser (Forking)
 ```
-https://github.com/RedEdge967/RedEdge967.github.io.git
+https://github.com/RedEdge967/portfolio-v1.git
 ```
 - Cloning in SSH
 ```
-git@github.com:RedEdge967/RedEdge967.github.io.git
+git@github.com:RedEdge967/portfolio-v1.git
 ```
 - Cloning in Github CLI
 ```
-gh repo clone RedEdge967/RedEdge967.github.io
+gh repo clone RedEdge967/portfolio-v1
 ```
 
 ### Link: https://rededge967.github.io/portfolio-v1
