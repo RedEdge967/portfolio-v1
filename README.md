@@ -1,6 +1,6 @@
-# RedEdge967.github.io
+# Portfolio-v1
 
-## [My Personal Website](https://rededge967.github.io)
+## [My Personal Website](https://rededge967.github.io/portfolio-v1)
 - This is my personal portfolio website. made with html5, css3 and javascript. it's a responsive website template. you can use this template to make your own portfolio website.
 
 ## Landing page Preview
@@ -29,6 +29,6 @@ git@github.com:RedEdge967/RedEdge967.github.io.git
 gh repo clone RedEdge967/RedEdge967.github.io
 ```
 
-### Link: https://rededge967.github.io
+### Link: https://rededge967.github.io/portfolio-v1
 
 > ### If you wanna use this template as your website template, fork or clone this repo and don't forget to give a star.. 🌟
