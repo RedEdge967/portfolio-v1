@@ -1,3 +1,5 @@
+> 🛑 Notice: I am no longer maintaining this repo as my website template. but improvements and bug fixes are mostly welcomed.
+
 # Portfolio-v1
 
 ## [My Personal Website](https://rededge967.github.io/portfolio-v1)
